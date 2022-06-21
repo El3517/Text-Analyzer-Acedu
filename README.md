@@ -91,3 +91,10 @@ const word = "hello";
 const text = "hello there";
 boldPassage(word, text);
 Expected Output: "<p><b>hello</b> there</p>"
+
+
+Describe : censoredWords()
+Code:
+const text = "zoinks,I made a mistake"
+censoredWords(word);
+Expected Output: *****,I made a mistake 
