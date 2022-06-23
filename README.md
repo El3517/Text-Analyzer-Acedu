@@ -104,4 +104,6 @@ Describe : topThreeWords
 Code:
 const text = I am a boy, A boy I am, Being a boy is quite lovely
 topThreeWords(word);
-Expected Output: boy
+Expected Output: Boy3
+                 A3
+                 I2
