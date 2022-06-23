@@ -110,9 +110,9 @@ Expected Output: Boy3
 
 # _{Text Analyzer Website}_
 
-#### _{Buddy shelter is website for you to find the right pet for you}_
+#### _{Text Analzer is a website for you to count or analyzer text in a }_
 
-#### By _**{Buddy shelter plc and Eneje caleb}**_
+#### By _**{Eneje caleb}**_
 
 ## Technologies Used
 
@@ -124,7 +124,7 @@ Expected Output: Boy3
 
 ## Description
 
-_{Buddy shelter website is a site to adopt a pet for you.it is  fast and easily accessible and easy to comprehend. all informations neccesary for you to adopt a pet have been provided for you on the site}_
+_{Text analyzer is a web app that not only allows you to count the words in a passage but also helps you to find the three most common words,boldens selected words in the passage and censors selected offensive words, Text analzer helps to make text analysis fast and effiecient and reliable}_
 
 ## Setup/Installation Requirements
 
@@ -137,7 +137,8 @@ _{Buddy shelter website is a site to adopt a pet for you.it is  fast and easily 
 
 ## Known Bugs
 
-* _loading sequence for different pages is not instantaneous it should take at least a second_
+* _it wont censor incorrectly spelled offensive words_
+* _it will bolden selected words with a symbol_
 
 
 ## License
@@ -145,7 +146,7 @@ _{Buddy shelter website is a site to adopt a pet for you.it is  fast and easily 
 _{ Peradventure you run into an issue with the site or you have contibution on how to make the site better, feel free to contact us the conatct information is down below.}_
 
 ## Webpage link
-https://el3517.github.io/animal-adoption/
+https://github.com/El3517/Text-Analyzer-Acedu.git
 
 ## Contact Information
 
